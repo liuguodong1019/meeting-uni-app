@@ -1,0 +1,1 @@
+<view><uni-list u-s="{{['d']}}" u-i="39b91abf-0" bind:__l="__l"><uni-list-item wx:if="{{a}}" u-i="39b91abf-1,39b91abf-0" bind:__l="__l" u-p="{{a}}"></uni-list-item><uni-list-item wx:if="{{b}}" u-i="39b91abf-2,39b91abf-0" bind:__l="__l" u-p="{{b}}"></uni-list-item></uni-list></view>

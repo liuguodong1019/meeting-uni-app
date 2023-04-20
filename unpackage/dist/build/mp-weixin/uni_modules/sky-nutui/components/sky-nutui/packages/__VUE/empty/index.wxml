@@ -1,0 +1,1 @@
+<view class="nut-empty"><view class="nut-empty-image" style="{{d}}"><block wx:if="{{a}}"><slot name="image"></slot></block><block wx:else><image wx:if="{{b}}" class="img" src="{{c}}"/></block></view><block wx:if="{{e}}"><slot name="description"></slot></block><block wx:else><view class="nut-empty-description">{{f}}</view></block><block wx:if="{{g}}"><slot></slot></block></view>

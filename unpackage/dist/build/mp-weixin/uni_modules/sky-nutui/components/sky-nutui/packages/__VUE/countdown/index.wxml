@@ -1,0 +1,1 @@
+<view class="{{c}}"><block wx:if="{{a}}"><slot></slot></block><block wx:else><view class="nut-cd-block"><rich-text nodes="{{b}}"/></view></block></view>

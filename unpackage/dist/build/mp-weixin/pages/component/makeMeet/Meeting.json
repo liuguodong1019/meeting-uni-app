@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-col": "../../../uni_modules/uni-row/components/uni-col/uni-col",
+    "uni-row": "../../../uni_modules/uni-row/components/uni-row/uni-row",
+    "nut-button": "../../../uni_modules/sky-nutui/components/sky-nutui/packages/__VUE/button/index",
+    "nut-dialog": "../../../uni_modules/sky-nutui/components/sky-nutui/packages/__VUE/dialog/index",
+    "count-down": "../time/CountDown"
+  }
+}

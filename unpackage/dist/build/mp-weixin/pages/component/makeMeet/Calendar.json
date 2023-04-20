@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-calendar": "../../../uni_modules/uni-calendar/components/uni-calendar/uni-calendar",
+    "nut-button": "../../../uni_modules/sky-nutui/components/sky-nutui/packages/__VUE/button/index",
+    "meeting": "./Meeting"
+  }
+}

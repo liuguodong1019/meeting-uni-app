@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "nut-countdown": "../../../uni_modules/sky-nutui/components/sky-nutui/packages/__VUE/countdown/index"
+  }
+}

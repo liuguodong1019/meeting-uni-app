@@ -1,0 +1,1 @@
+"use strict";const t=t=>"function"==typeof t,e=t=>null!==t&&"object"==typeof t,r=(t,o)=>(Object.keys(o).forEach((s=>{let c=t[s],p=o[s];e(c)&&e(p)?r(c,p):t[s]=p})),t);exports.deepMerge=r,exports.getPropByPath=(t,e)=>{try{return e.split(".").reduce(((t,e)=>t[e]),t)}catch(r){return""}},exports.isFunction=t,exports.isObject=e,exports.isPromise=r=>e(r)&&t(r.then)&&t(r.catch);

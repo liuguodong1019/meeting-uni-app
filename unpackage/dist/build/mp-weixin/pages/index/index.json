@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "会议室预定",
+  "usingComponents": {
+    "appointment": "../component/makeMeet/Appointment"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "nut-picker-column": "../pickercolumn/index",
+    "nut-popup": "../popup/index"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "nut-form-item": "../../../uni_modules/sky-nutui/components/sky-nutui/packages/__VUE/formitem/index",
+    "nut-button": "../../../uni_modules/sky-nutui/components/sky-nutui/packages/__VUE/button/index",
+    "nut-form": "../../../uni_modules/sky-nutui/components/sky-nutui/packages/__VUE/form/index"
+  }
+}

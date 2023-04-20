@@ -1,0 +1,1 @@
+"use strict";const e=require("../../static/js/utils.js");require("../../common/vendor.js"),Math||t();const t=()=>"../component/makeMeet/Appointment2.js",s={__name:"index",setup:t=>(e.useGlobal.timerLoginStatus(),(e,t)=>({}))};wx.createPage(s);

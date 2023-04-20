@@ -1,0 +1,1 @@
+"use strict";exports.getTimeStamp=e=>{if(!e)return Date.now();let t=e;return t=t>0?+t:t.toString().replace(/\-/g,"/"),new Date(t).getTime()},exports.padZero=(e,t=2)=>{for(e+="";e.length<t;)e="0"+e;return e.toString()};

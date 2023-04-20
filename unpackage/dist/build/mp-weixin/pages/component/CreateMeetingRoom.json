@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "nut-form-item": "../../uni_modules/sky-nutui/components/sky-nutui/packages/__VUE/formitem/index",
+    "nut-radio": "../../uni_modules/sky-nutui/components/sky-nutui/packages/__VUE/radio/index",
+    "nut-radiogroup": "../../uni_modules/sky-nutui/components/sky-nutui/packages/__VUE/radiogroup/index",
+    "nut-picker": "../../uni_modules/sky-nutui/components/sky-nutui/packages/__VUE/picker/index",
+    "nut-button": "../../uni_modules/sky-nutui/components/sky-nutui/packages/__VUE/button/index",
+    "nut-form": "../../uni_modules/sky-nutui/components/sky-nutui/packages/__VUE/form/index"
+  }
+}

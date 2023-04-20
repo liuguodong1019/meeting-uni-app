@@ -1,0 +1,1 @@
+<view style="padding-bottom:20px"><nut-empty wx:if="{{a}}" u-i="0c39d1ee-0" bind:__l="__l" u-p="{{b}}"></nut-empty><meeting wx:for="{{c}}" wx:for-item="item" wx:key="a" u-i="{{item.b}}" bind:__l="__l" u-p="{{item.c}}"/></view>
